@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"errors"
 	shell "github.com/kballard/go-shellquote"
-	"github.com/kr/pty"
+	"github.com/keybase/pty"
 	"io"
 	"os"
 	"os/exec"
